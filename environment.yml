@@ -8,3 +8,4 @@ dependencies:
   - plotly
   - jupyter_contrib_nbextensions
   - matplotlib
+  - scipy
